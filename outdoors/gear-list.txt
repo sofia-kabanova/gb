@@ -1,0 +1,7 @@
+Gear
+1. item_1
+2. item_2
+
+Food
+1. food_item_1
+2. food_item_2
