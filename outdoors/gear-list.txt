@@ -2,6 +2,7 @@ Gear
 1. item_1
 2. item_2
 3. item_3
+4. item_from Sofia
 
 Food
 1. food_item_1
