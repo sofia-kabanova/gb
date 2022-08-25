@@ -3,6 +3,7 @@ Gear
 2. item_2
 3. item_3
 4. item_from Sofia
+5. iten_from Yuri
 
 Food
 1. food_item_1
